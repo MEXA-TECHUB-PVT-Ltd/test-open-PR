@@ -1,0 +1,6 @@
+module Pods_mainstaysmtechub_mainstaysmtechubTests {
+  umbrella header "Pods-mainstaysmtechub-mainstaysmtechubTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
